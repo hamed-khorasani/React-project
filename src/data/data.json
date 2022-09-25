@@ -1,0 +1,192 @@
+{
+  "Header": {
+    "title": "Make your business shine on the web",
+    "paragraph": "If you are willing to start a Handyman service business then you need to advertise your business with lots of other things."
+  },
+  "About": {
+    "paragraph": "The Find Service Man shares a lot of information on its website about repair and install companys , and this includes contact relating to their businesses and images. It is important forus to emphasise to users all around the world that we have a large team of business who doing duties about any repair or installation they are to. The fact this website have millions of subscribers and businesses during the day only adds to the trust they have, leading to more users in the future.",
+    "Why": [
+      "Easy to access",
+      "Personal data",
+      "Engagement data",
+      "Behavioral data"
+    ],
+    "Why2": [
+      "Attitudinal data",
+      "Avoid linking your apps",
+      "Block ads and trackers",
+      " To secure more data"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Apple pruduct Repair",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Mobile & Cellphone",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Home Appliences",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Vehicles",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Maintenance",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Construction",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Cleaning",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Cell Phone",
+      "text": ""
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"In my history of working with trade show vendors, I can honestly say that there is not one company that I've ever worked with that has better service than Find Service Man.\"",
+      "name": "KRISTINE MARION"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"I wanted to follow up on feedback from the Pure Fishing brand and sales teams on the excellent work that you and your team did at the Classic. Your team’s professionalism and willingness to do whatever it takes with minimal interruption was recognized by everyone.\"",
+      "name": "ANDREW MARKS"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Quality is always there. Top of the game in terms of that Find Service Man.You and your company are great partners and I enjoy working with you. Quality is always there. Top of the game in terms of that Find Service Man.You and your company are great partners and I enjoy working with you\"",
+      "name": "CHRISTINA WADE"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"They are not a supplier. They are a partner with expertise in making trade shows effective.All communication with them is really easy. They do handle everything.\"",
+      "name": "RAY ACKERLUND"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Find Dervice Man is above and beyond their competitors and I have talked and met with the others. Some of them wouldn’t even follow up very well when I was just talking to them about them possibly providing services.\"",
+      "name": "KELLI GIBSON"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"I know they are going to be honest with me. I am not going to get a subpar product; I know it is going to be good. That is the number one advantage of working with Find Service Man because I just do not want to be sold. \"",
+      "name": "JENNY SCHECKE"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Broadway Service",
+      "job": "Vehicle Repair"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "HZ Technology Ltd",
+      "job": "CELL PHONE REPAIR"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Saskatoon Techs",
+      "job": "laptop repair"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "lorraineal renovations",
+      "job": "Home Renovation"
+    }
+  ],
+  "Contact": {
+    "address": "105 Cumberlan AVE South, Saskatoon, CA ",
+    "phone": "+1 639 471 2826",
+    "email": "info@findserviceman.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Signin": {
+    "address": "105 Cumberlan AVE South, Saskatoon, CA ",
+    "phone": "+1 639 471 2826",
+    "email": "info@findserviceman.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Home Appliences",
+      "text": "Capital Appliance Repair is one of the largest and best-rated appliance repair companies in Saskatoon, and can get you the service you need, whenever you need it."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Electronics",
+      "text": "Mobile Klinik is Canada’s leader in professional smartphone tablet repair, refurbishment and resale. We are committed to providing consumers and businesses with flexible and affordable options to repair, buy, sell, protect and connect their wireless devices."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Construction repairs",
+      "text": "Home construction has a complicated and mysterious history. If we could travel back in time, we could watch humankind invent the first permanent structures."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Vehicles",
+      "text": "Find your car's repair cost estimates, common problems, maintenance schedule & more."
+    }
+  ]
+}
